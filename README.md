@@ -1,1 +1,1 @@
-# yolov7-fire-fetection
+# yolov7-fire-detection
