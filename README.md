@@ -54,7 +54,7 @@ data
 #### Start Custom Training
 Replace the ```coco.yaml``` file in folder data with ```data.yaml``` and change the number of classes in ```cfg>training>yolov7.yaml``` to 1 
 
-Download yolov7 weight files from [here]('https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt') and put it inside the directory.
+Download yolov7 weight files from [here](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt) and put it inside the directory.
 
 Beign Custom training by executing the command
 ```
@@ -77,7 +77,9 @@ or for video
 python detect.py --weights /content/yolov7/runs/train/exp2/weights/best.pt --conf 0.1 --source 92.mp4
 ``` 
 
-https://user-images.githubusercontent.com/84698110/188262369-361ca30e-de9a-46bd-a5c0-cda4783fbe3b.mp4
+
+https://user-images.githubusercontent.com/84698110/188262463-3d40f9a1-0b2f-4d32-931b-0c5c4925f1ef.mp4
+
 
 
  
