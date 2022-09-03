@@ -60,7 +60,7 @@ Beign Custom training by executing the command
 ```
 python train.py --batch 16 --cfg cfg/training/yolov7.yaml --epochs 10 --data data/data.yaml --weights 'yolov7.pt' --device 0 
 ```
-Once the training is completed the model can be found at runs>train>weights as best.pt 
+Once the training is completed the model can be found at ```runs>train>weights``` as ```best.pt``` 
 We can use this model for feature detection(either you can use your own trained model or the pretrained model released within this repository) by the command
 ```
 python detect.py --weights /content/yolov7/runs/train/exp2/weights/best.pt --conf 0.1 --source 92.jpg
