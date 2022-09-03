@@ -1,0 +1,10 @@
+
+
+train: ./data/train  
+val: ./data/val
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Fire']
