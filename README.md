@@ -78,7 +78,10 @@ python detect.py --weights /content/yolov7/runs/train/exp2/weights/best.pt --con
 ``` 
 
 
-https://user-images.githubusercontent.com/84698110/188262463-3d40f9a1-0b2f-4d32-931b-0c5c4925f1ef.mp4
+
+https://user-images.githubusercontent.com/84698110/188262803-de6b8820-c458-4638-9c7a-063a42dc651e.mp4
+
+
 
 
 
