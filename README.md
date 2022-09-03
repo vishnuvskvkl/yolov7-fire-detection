@@ -78,6 +78,11 @@ python detect.py --weights /content/yolov7/runs/train/exp2/weights/best.pt --con
 ```
 <video src= 'result/dt_trim.mp4' width='400'>
  
+
+https://user-images.githubusercontent.com/84698110/188262369-361ca30e-de9a-46bd-a5c0-cda4783fbe3b.mp4
+
+
+ 
  
 ### Results 
 
