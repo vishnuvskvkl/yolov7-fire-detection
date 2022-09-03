@@ -38,7 +38,7 @@ git clone https://github.com/WongKinYiu/yolov7.git
 cd yolov7
 ```
 ### Creating custom dataset
-For custom train the model I used fire dataset from [Roboflow]('https://universe.roboflow.com/dataset-9xayt/fire-data-annotations-lwfou/dataset/1') which contains 2005 images and their labels in yolov7 format. You can either download or get the dataset using roboflow api key. Put it under the folder ```data```
+For custom train the model I used fire dataset from [Roboflow](https://universe.roboflow.com/dataset-9xayt/fire-data-annotations-lwfou/dataset/1) which contains 2005 images and their labels in yolov7 format. You can either download or get the dataset using roboflow api key. Put it under the folder ```data```
 
 ```txt
 data
