@@ -1,7 +1,7 @@
 # yolov7-fire-detection
 
 
-Implementation of a fire detection model to trace fire from  video or image.This model is build based on original [yolov7]('https://github.com/WongKinYiu/yolov7') by [WongKinYiu]('https://github.com/WongKinYiu') 
+Implementation of a fire detection model to trace fire from  video or image.This model is build based on original [yolov7](https://github.com/WongKinYiu/yolov7) by [WongKinYiu](https://github.com/WongKinYiu) 
 
 <p align="center">
  <img src="result/f.jpg" width='500' height='300'/> <img src="result/f2.jpg"
