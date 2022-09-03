@@ -76,8 +76,6 @@ or for video
 ```
 python detect.py --weights /content/yolov7/runs/train/exp2/weights/best.pt --conf 0.1 --source 92.mp4
 ```
-<video src='result/dt_Trim.mp4' width=400/>
-
 
 ### Results 
 
